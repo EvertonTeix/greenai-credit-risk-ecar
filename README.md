@@ -82,12 +82,14 @@ reports/resultados_artigo/{Dataset}/
 
 ### Bondora Peer-to-Peer Lending
 
-- 179,235 instances
+- 179,235 instances (original) / 121,461 instances × 104 columns (preprocessed)
 - Financial and demographic features
 
-🔗 [Download Dataset](https://www.kaggle.com/datasets/sid321axn/bondora-peer-to-peer-lending-loan-data)
+🔗 [Download Original Dataset (Kaggle)](https://www.kaggle.com/datasets/sid321axn/bondora-peer-to-peer-lending-loan-data)  
+*This is the normal, raw dataset.*
 
-> **Note:** Since the original file is too large for GitHub, only the preprocessed version was uploaded.
+🔗 [Download Preprocessed Dataset (Google Drive)](https://drive.google.com/file/d/1gR5RGl1F02l5bpeelWzMj-l-HNJVN_Dv/view?usp=sharing)  
+*This is the preprocessed dataset used in the experiments. It is hosted on Drive because the preprocessing code is not included in this repository and the file is too large for GitHub.*
 
 The repository notebooks use these datasets via relative paths.
 
@@ -293,12 +295,14 @@ reports/resultados_artigo/{Base}/
 
 ### Bondora Peer-to-Peer Lending
 
-- 179.235 registros
+- 179.235 registros (original) / 121.461 registros × 104 colunas (pré-processado)
 - Features financeiras e demográficas
 
-🔗 [Download Dataset](https://www.kaggle.com/datasets/sid321axn/bondora-peer-to-peer-lending-loan-data)
+🔗 [Download da Base Original (Kaggle)](https://www.kaggle.com/datasets/sid321axn/bondora-peer-to-peer-lending-loan-data)  
+*Esta é a base de dados normal, sem nenhum tratamento.*
 
-> **Nota:** Como o arquivo original é muito grande, apenas a versão pré-processada foi disponibilizada no repositório.
+🔗 [Download da Base Pré-processada (Google Drive)](https://drive.google.com/file/d/1gR5RGl1F02l5bpeelWzMj-l-HNJVN_Dv/view?usp=sharing)  
+*Esta é a base já pré-processada usada nos experimentos. Ela está no Drive porque o código de pré-processamento não está neste repositório e o arquivo é muito grande para o GitHub.*
 
 ---
 
