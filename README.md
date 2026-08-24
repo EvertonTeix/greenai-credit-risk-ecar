@@ -1,8 +1,5 @@
 # Evaluating Computational and Carbon Costs of Machine Learning: The Impact of Feature Dimensionality During Model Development
 
-**Authors:**
-Antonio Everton C. Teixeira, Fernanda Scarcela, Lívian Torres Mariano, Maria Clara Pereira, Marcos Roberto Machado, José Wellington Franco, Bruno R. Silva, Renato William R. de Souza
-
 Repository for the experiments of the Green AI in credit risk paper. This project analyzes how feature dimensionality affects predictive performance, computational consumption, and carbon emissions throughout the experimental lifecycle.
 
 > Para a versão em Português, role a página para baixo / For the Portuguese version, scroll down.
